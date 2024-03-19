@@ -323,7 +323,7 @@ Do you see any problem with this model with protected attributes such as race an
 Choose one of the data described above as your target problem.
 
 ~~~
-Please write your answer in full sentences.
+We will be working the COMPAS data set.
 
 
 ~~~
@@ -332,16 +332,14 @@ Discuss what a favorable label in this problem is and what does a favorable labe
 Is it assertive or non-punitive?
 
 ~~~
-Please write your answer in full sentences.
-
+The favorable label is "low" recidivism risk and the favorable label grant is non-punitive as it is simply someone not getting arrested again if they were to receive parole.
 
 ~~~
 
 What type of justice is this issue about?
 
 ~~~
-Please write your answer in full sentences.
-
+This issue is about distributive as well as procedural justice. The issue is whether the profiling has bias towards certain protected groups. So we are interested in what recidivism risk group they are placed in and were they placed in the different risk groups in the same way, or is there bias in the predictions based on race.
 
 ~~~
 
@@ -356,7 +354,7 @@ Please write your answer in full sentences.
 Discuss what type of group fairness metrics is appropriate for this problem.
 
 ~~~
-Please write your answer in full sentences.
+False positive rate parity.
 
 
 ~~~
